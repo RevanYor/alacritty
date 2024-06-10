@@ -9,6 +9,7 @@ magenta = "0xFF1493"
 red = "0xFF2400"
 white = "0xFFFAFA"
 yellow = "0xFDFF00"
+blue = "0x0087bd"
 
 [colors.normal]
 black = "0x10100E"
@@ -18,16 +19,12 @@ magenta = "0x9A4EAE"
 red = "0xC40233"
 white = "0xC6C6C4"
 yellow = "0xFFD700"
+blue = "0x0087BD"
 
 [colors.primary]
 background = "0x10100E"
 foreground = "0xC6C6C4"
 
-[font.bold]
-family = "JetBrainsMono Nerd Font"
-
-[font.italic]
-family = "JetBrainsMono Nerd Font"
 
 [font.normal]
 family = "JetBrainsMono Nerd Font"
